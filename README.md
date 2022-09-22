@@ -21,7 +21,7 @@ Hi, my name is Ciro. junior software engineer. currently focused on the front en
 ### Connect with me: 
 <p>
 <a href="https://www.linkedin.com/in/ciro-pican%C3%A7o-2bb37422a/">
-<img align ="left" alt="linkedin" color="white" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img align ="left" alt="linkedin" color="white" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <br/>
 
