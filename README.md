@@ -1,4 +1,4 @@
-<img  align="center" src ="https://www.canva.com/design/DAF0dRErdHg/EOAo9Fo_oSzaLt-bK4JaNw/view?utm_content=DAF0dRErdHg&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+<img width=55% align="center"  src="./assets/imgReadme.png" />
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
